@@ -3,3 +3,13 @@ C:\Users\user\Desktop\GB - Домашка\C#\Sem4\obj\Debug\net8.0\Sem4.Assembly
 C:\Users\user\Desktop\GB - Домашка\C#\Sem4\obj\Debug\net8.0\Sem4.AssemblyInfo.cs
 C:\Users\user\Desktop\GB - Домашка\C#\Sem4\obj\Debug\net8.0\Sem4.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\GB - Домашка\C#\Sem4\obj\Debug\net8.0\Sem4.sourcelink.json
+C:\Users\user\Desktop\GB - Домашка\C#\Sem4\bin\Debug\net8.0\Sem4.exe
+C:\Users\user\Desktop\GB - Домашка\C#\Sem4\bin\Debug\net8.0\Sem4.deps.json
+C:\Users\user\Desktop\GB - Домашка\C#\Sem4\bin\Debug\net8.0\Sem4.runtimeconfig.json
+C:\Users\user\Desktop\GB - Домашка\C#\Sem4\bin\Debug\net8.0\Sem4.dll
+C:\Users\user\Desktop\GB - Домашка\C#\Sem4\bin\Debug\net8.0\Sem4.pdb
+C:\Users\user\Desktop\GB - Домашка\C#\Sem4\obj\Debug\net8.0\Sem4.dll
+C:\Users\user\Desktop\GB - Домашка\C#\Sem4\obj\Debug\net8.0\refint\Sem4.dll
+C:\Users\user\Desktop\GB - Домашка\C#\Sem4\obj\Debug\net8.0\Sem4.pdb
+C:\Users\user\Desktop\GB - Домашка\C#\Sem4\obj\Debug\net8.0\Sem4.genruntimeconfig.cache
+C:\Users\user\Desktop\GB - Домашка\C#\Sem4\obj\Debug\net8.0\ref\Sem4.dll

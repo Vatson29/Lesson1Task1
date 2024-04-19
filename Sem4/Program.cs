@@ -1,13 +1,14 @@
-﻿Console.WriteLine("Введите число ");
+﻿
+Console.WriteLine("Введите число ");
 int a = Convert.ToInt32(Console.ReadLine());
+int i = 2;
 
 if (a <= 0)
-Console.WriteLine("Вы ввели отрицательне число ");
+Console.WriteLine("Вы ввели не верные данные ");
 
-int num = 0;
-
-while (num <= a)
+while (i <= a)
 {
-    Console.WriteLine(num);
-    num = num + 2;
+    Console.WriteLine(i);
+    i = i + 2;
 }
+
