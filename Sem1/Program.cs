@@ -1,19 +1,20 @@
 ﻿Console.WriteLine("Введите число 1");
-int num1 = Convert.ToInt32(Console.ReadLine());
+int firstNumber = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число 2");
-int num2 = Convert.ToInt32(Console.ReadLine());
+int secondNumber = Convert.ToInt32(Console.ReadLine());
 
-if (num1 > num2)
+if (firstNumber > secondNumber)
 {
-Console.WriteLine("Большее число = " + num1 + ", а меньшее =" + num2);    
+Console.WriteLine("Большее число = " + firstNumber + ", а меньшее =" + secondNumber);    
 //Console.WriteLine("Меньшее " + num2);    
 }
-else if (num1==num2)
+else if (firstNumber == secondNumber)
 {
     Console.WriteLine("Числа равны");    
 }
 else
 {
-    Console.WriteLine("Большее число = " + num2 + ", а меньшее =" + num1);    
+    Console.WriteLine("Большее число = " + secondNumber + ", а меньшее =" + firstNumber);    
 }
+
 
