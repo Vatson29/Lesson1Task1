@@ -1,21 +1,38 @@
-﻿Console.WriteLine("Введите число 1");
-int num1 = Convert.ToInt32(Console.ReadLine());
+﻿using System.Numerics;
+
+Console.WriteLine("Введите число 1");
+int a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число 2");
-int num2 = Convert.ToInt32(Console.ReadLine());
+int b = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число 3");
-int num3 = Convert.ToInt32(Console.ReadLine());
+int c = Convert.ToInt32(Console.ReadLine());
 
-//int max + num1;
+int max = a;
 
-if (num1 > num2 && num1 > num3)
+if (b > max)
 {
-Console.WriteLine("Большее число =" + num1);    
+    max = b;
 }
-if (num2 > num1 && num2 > num3)
+if (c > max)
 {
-Console.WriteLine("Большее число =" + num2);    
+    max = c;
 }
-if (num3 > num1 && num3 > num2)
-{
-Console.WriteLine("Большее число =" + num3);    
-}
+
+return max;
+
+
+
+
+
+// if (num1 > num2 && num1 > num3)
+// {
+// Console.WriteLine("Большее число =" + num1);    
+// }
+// if (num2 > num1 && num2 > num3)
+// {
+// Console.WriteLine("Большее число =" + num2);    
+// }
+// if (num3 > num1 && num3 > num2)
+// {
+// Console.WriteLine("Большее число =" + num3);    
+// }
