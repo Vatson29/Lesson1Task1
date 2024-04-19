@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\GB - Домашка\C#\Lesson1Task1\bin\Debug\net8.0\Lesson1Task1.exe
+C:\Users\user\Desktop\GB - Домашка\C#\Lesson1Task1\bin\Debug\net8.0\Lesson1Task1.deps.json
+C:\Users\user\Desktop\GB - Домашка\C#\Lesson1Task1\bin\Debug\net8.0\Lesson1Task1.runtimeconfig.json
+C:\Users\user\Desktop\GB - Домашка\C#\Lesson1Task1\bin\Debug\net8.0\Lesson1Task1.dll
+C:\Users\user\Desktop\GB - Домашка\C#\Lesson1Task1\bin\Debug\net8.0\Lesson1Task1.pdb
+C:\Users\user\Desktop\GB - Домашка\C#\Lesson1Task1\obj\Debug\net8.0\Lesson1Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GB - Домашка\C#\Lesson1Task1\obj\Debug\net8.0\Lesson1Task1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GB - Домашка\C#\Lesson1Task1\obj\Debug\net8.0\Lesson1Task1.AssemblyInfo.cs
+C:\Users\user\Desktop\GB - Домашка\C#\Lesson1Task1\obj\Debug\net8.0\Lesson1Task1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GB - Домашка\C#\Lesson1Task1\obj\Debug\net8.0\Lesson1Task1.dll
+C:\Users\user\Desktop\GB - Домашка\C#\Lesson1Task1\obj\Debug\net8.0\refint\Lesson1Task1.dll
+C:\Users\user\Desktop\GB - Домашка\C#\Lesson1Task1\obj\Debug\net8.0\Lesson1Task1.pdb
+C:\Users\user\Desktop\GB - Домашка\C#\Lesson1Task1\obj\Debug\net8.0\Lesson1Task1.genruntimeconfig.cache
+C:\Users\user\Desktop\GB - Домашка\C#\Lesson1Task1\obj\Debug\net8.0\ref\Lesson1Task1.dll
