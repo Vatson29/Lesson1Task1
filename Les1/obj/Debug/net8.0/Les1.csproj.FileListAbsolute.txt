@@ -12,3 +12,4 @@ C:\Users\user\Desktop\GB - Домашка\C#\Les1\obj\Debug\net8.0\refint\Les1.d
 C:\Users\user\Desktop\GB - Домашка\C#\Les1\obj\Debug\net8.0\Les1.pdb
 C:\Users\user\Desktop\GB - Домашка\C#\Les1\obj\Debug\net8.0\Les1.genruntimeconfig.cache
 C:\Users\user\Desktop\GB - Домашка\C#\Les1\obj\Debug\net8.0\ref\Les1.dll
+C:\Users\user\Desktop\GB - Домашка\C#\Les1\obj\Debug\net8.0\Les1.sourcelink.json
